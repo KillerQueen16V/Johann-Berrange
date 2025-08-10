@@ -14,3 +14,7 @@ C#, .NET, WPF, WinForms, SQL, REST APIs, Python.
 # Miscellaneous Projects
 
 - **[Resize and Scale Controls](#)** – C# class for the automatic resizing and scaling of UI elements in Windows Forms and WPF.
+
+# Contact Details
+
+**Email:** johannes.berrange@gmail.com
